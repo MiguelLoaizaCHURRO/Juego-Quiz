@@ -1,0 +1,564 @@
+ Dfd (c)
+1
+1
+5
+0
+0
+12
+1
+4
+menu
+0
+1
+2
+1
+4
+menu
+0
+0
+6
+1
+3
+opc
+1
+1
+9
+1
+8
+opc != 0
+4
+1
+45
+'....Bienvenido a Preguntas y Respuestas....'
+4
+1
+10
+'.:MENU:.'
+4
+1
+18
+'1. Iniciar juego'
+4
+1
+22
+'2. Ver instrucciones'
+4
+1
+10
+'0. Salir'
+4
+1
+32
+'Digite la opcion a realizar ; '
+5
+1
+3
+opc
+7
+0
+1
+6
+opc =1
+7
+0
+1
+7
+opc = 2
+7
+0
+1
+7
+opc = 0
+4
+1
+23
+'.:OPCION INCORRECTA:.'
+13
+4
+1
+28
+'Gracias por usar mi app!!!'
+4
+1
+22
+'.:FIN DEL PROGRAMA:.'
+13
+13
+12
+1
+13
+instrucciones
+0
+13
+13
+12
+1
+12
+cuestionario
+0
+13
+11
+3
+2
+1
+12
+cuestionario
+0
+0
+4
+1
+30
+'Bienvenido a nuestro Quiz!!!'
+6
+2
+7
+puntaje
+1
+0
+9
+respuesta
+1
+0
+4
+1
+60
+'Pregunta #1: ¿Que muestra el siguiente codigo en pantalla?'
+4
+1
+18
+'print(5 + 3 * 2)'
+4
+1
+29
+' 1. 16  2. 11  3. 13  4. 10'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 2
+4
+1
+42
+'Incorrecto. La respuesta correcta era 2.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+78
+'Pregunta #2: ¿Cual de las siguientes es una estructura de control en Python?'
+4
+1
+37
+' 1. if 2. loop 3. iterate 4. method'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 1
+4
+1
+42
+'Incorrecto. La respuesta correcta era 1.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+84
+'Pregunta #3: ¿Que comando se usa para ver el estado actual de los archivos en Git?'
+4
+1
+51
+' 1. git status 2. git show 3. git pull 4. git add'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 1
+4
+1
+42
+'Incorrecto. La respuesta correcta era 1.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+90
+'Pregunta #4: ¿Cual es el valor de la variable x despues de ejecutar el siguiente codigo?'
+4
+1
+23
+' x = 10 x += 5 x -= 3'
+4
+1
+25
+' 1. 8 2. 12 3. 13 4. 10'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 2
+4
+1
+42
+'Incorrecto. La respuesta correcta era 2.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+58
+'Pregunta #5: ¿Que muestra el siguiente codigo en Python?'
+4
+1
+32
+'for i in range(3):    print(i)'
+4
+1
+55
+' 1. 1 2 3  2. 0 1 2  3. 0 1 2 3  4. Error de sintaxis'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 2
+4
+1
+42
+'Incorrecto. La respuesta correcta era 2.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+58
+'Pregunta #6: ¿Cual es el proposito del comando git push?'
+4
+1
+132
+' 1. Enviar cambios al servidor remoto  2. Traer cambios desde el servidor remoto  3. Combinar ramas  4. Inicializar un repositorio'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 1
+4
+1
+42
+'Incorrecto. La respuesta correcta era 1.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+82
+'Pregunta #7: ¿Cual es la instruccion para leer datos desde el teclado en PSeInt?'
+4
+1
+45
+' 1. Escribir  2. Leer  3. Mostrar  4. Input'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 2
+4
+1
+42
+'Incorrecto. La respuesta correcta era 2.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+92
+'Pregunta #8: ¿Cuál es la estructura condicional utilizada en PSeInt para tomar decisiones?'
+4
+1
+41
+' 1. Mientras  2. Hacer  3. Si  4. Segun'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 3
+4
+1
+42
+'Incorrecto. La respuesta correcta era 3.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+79
+'Pregunta #9: ¿Cual es el comando para mostrar mensajes en pantalla en PSeInt?'
+4
+1
+48
+' 1. imprimir  2. escribir  3. mostrar  4. leer'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 2
+4
+1
+42
+'Incorrecto. La respuesta correcta era 2.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+4
+1
+98
+'Pregunta #10: ¿Cual de las siguientes estructuras se usa para crear bucles tipo while en PSeInt?'
+4
+1
+43
+' 1. mientras  2. Si  3. Entonces  4. Caso'
+4
+1
+37
+'Escribe el numero de tu respuesta: '
+5
+1
+9
+respuesta
+7
+0
+1
+13
+respuesta = 1
+4
+1
+42
+'Incorrecto. La respuesta correcta era 1.'
+13
+4
+1
+12
+'¡Correcto!'
+6
+1
+7
+puntaje
+10
+puntaje +1
+13
+12
+1
+15
+calcularPuntaje
+1
+11
+puntaje, 10
+3
+2
+1
+13
+instrucciones
+0
+0
+4
+1
+19
+'.:INSTRUCCIONES:.'
+4
+1
+49
+'1. Elige la opcion correcta para cada pregunta.'
+4
+1
+68
+'2. Responde con A, B, C o D. O recibira una penitencia de -1 punto'
+4
+1
+60
+'3. Necesitas al menos 6 respuestas correctas para aprobar.'
+3
+2
+1
+15
+calcularPuntaje
+1
+23
+puntaje, totalPreguntas
+0
+6
+1
+10
+porcentaje
+31
+(puntaje / totalPreguntas) *100
+7
+0
+1
+16
+porcentaje >= 60
+4
+1
+87
+'No aprobaste. Puntaje total: ', puntaje, ' de ', totalPreguntas, ' ', porcentaje, '%' 
+13
+4
+1
+83
+'¡Aprobaste con un ',porcentaje,'%! Puntaje total: ',puntaje,' de ', totalPreguntas
+13
+3
